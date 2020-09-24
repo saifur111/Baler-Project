@@ -1,0 +1,6 @@
+Database name:  msrsdb
+
+table 1: adminlogin
+table 2: logindata
+table 3: product
+table 4: ureversityname
